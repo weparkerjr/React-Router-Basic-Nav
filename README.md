@@ -17,7 +17,7 @@ Topics:
 * cd into the repository and run `yarn install`
 * run `yarn start`
 
-### Steps for implementing React Router
+### Steps for implementing React Router - Todo
 
 * You'll notice we've already installed react-router-dom for you.
 * `import` your BrowserRouter as Router inside your `index.js` file.
