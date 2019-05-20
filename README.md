@@ -1,6 +1,6 @@
 # React Router Basic Nav
 
-Topics:
+## Topics:
 
 * Single Page Applications
 * React Router V4 (react-router-dom)
@@ -14,8 +14,8 @@ Topics:
 
 ### Initialize Project
 
-* cd into the repository and run `yarn install`
-* run `yarn start`
+## * cd into the repository and run `yarn install`
+## * run `yarn start`
 
 ### Steps for implementing React Router - Todos
 
@@ -35,9 +35,9 @@ Topics:
 
 ### Steps for setting up your Navigation
 
-* Inside of `Navigation.js` `import { Link } from 'react-router-dom'`.
-* Declare the `to` as the href on `<Link>` and specify the correct routes for your app to navigate towards.
-* Head over to your app and start navigating. You should be able to see your URLS changing their paths as you go. Each path should display the proper component. 
+## * Inside of `Navigation.js` `import { Link } from 'react-router-dom'`.
+## * Declare the `to` as the href on `<Link>` and specify the correct routes for your app to navigate towards.
+## * Head over to your app and start navigating. You should be able to see your URLS changing their paths as you go. Each path should display the proper component. 
 
 ### Resources
 
